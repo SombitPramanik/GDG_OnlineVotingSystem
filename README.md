@@ -61,11 +61,6 @@ This Voting System web application built using Django can serve as the automated
 |<img src="ss/admin/12.png" width="400">|<img src="ss/voter/12.png" width="400">|
 |<img src="ss/admin/13.png" width="400">|<img src="ss/voter/13.png" width="400">|
 |<img src="ss/admin/14.png" width="400">|<img src="ss/voter/14.png" width="400">|
-|<img src="ss/admin/15.png" width="400">|------- ------ ------ ------|
-|<img src="ss/admin/16.png" width="400">|------- ------ ------ ------|
-|<img src="ss/admin/17.png" width="400">|------- ------ ------ ------|
-|<img src="ss/admin/18.png" width="400">|------- ------ ------ ------|
-
 
 
 
